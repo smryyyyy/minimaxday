@@ -1,0 +1,11 @@
+{
+  "host": "agent.minimax.cn",
+  "uuid": "",
+  "device_id": "",
+  "user_id": "",
+  "sign_window_start": "00:30",
+  "sign_window_end": "02:00",
+  "timezone": "Asia/Shanghai",
+  "auto_signin": true,
+  "_说明": "user_id = 账号的 realUserID,自动获取,一般不用手填(在 Web 界面「更新 Token」里粘一次 Token 就自动识别并写回这里); uuid / device_id = 设备指纹,服务端不校验,留着是为了指纹稳定,留空即可。复制成 config.json 后不用改任何账号标识。"
+}

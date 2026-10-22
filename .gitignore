@@ -1,0 +1,23 @@
+# 凭据与运行时状态（绝对不能进 git）
+token.txt
+.web-pass
+.web-secret
+.signin-state.json
+
+# 账号配置（含 user_id / uuid / device_id，绝对不能进 git）
+# 模板见 config.json.example
+config.json
+
+# 日志
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+
+# 系统
+.DS_Store
