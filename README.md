@@ -1,4 +1,4 @@
-<h1 align="center">MiniMax 每日自动签到</h1>
+<h1 align="center">MiniMax自动签到</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
